@@ -1,0 +1,6 @@
+{
+  "name": "Toto Macau Prediction",
+  "description": "Situs prediksi data keluaran Toto Macau terlengkap dengan algoritma AI statistik, ramalan probabilitas, analisa ganjil-genap, besar-kecil, dan riwayat hit bet terakurat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
